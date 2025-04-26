@@ -26,8 +26,8 @@ class ProjectController extends Controller
             [
                 'title' => 'Smart Dashboard',
                 'description' => 'Smart Dashboard เป็นเว็บแอปพลิเคชันที่ออกแบบมาเพื่อช่วยอำนวยความสะดวกในชีวิตประจำวัน โดยมีฟีเจอร์หลัก ได้แก่ ตรวจสอบอากาศ สร้าง QR Code และ Bar Code',
-                'tech' => 'HTML5, CSS, Bootstrap 5, JavaScript, API จาก OpenWeather',
-                'link' => '..',
+                'tech' => 'HTML5, CSS, Bootstrap 5, JavaScript, QRServer-API, OpenWeather-API',
+                'link' => 'https://smart-dash.netlify.app/',
                 'image' => '/images/projects/pic_SmartDashboard.png'
             ]
         ];

@@ -137,6 +137,10 @@
                             <img src="{{ asset('images/certificate/Certificate_SQL.jpg') }}" alt="Certificate 2"
                                 class="img-fluid rounded shadow w-100" style="height: 300px; object-fit: cover;">
                         </div>
+                        <div class="col-md-6 mb-3" data-aos="zoom-in" data-aos-delay="100">
+                            <img src="{{ asset('images/certificate/certificate_umeda.jpg') }}" alt="Certificate 3"
+                                class="img-fluid rounded shadow w-100" style="height: 300px; object-fit: cover;">
+                        </div>
                     </div>
                 </div>
 
